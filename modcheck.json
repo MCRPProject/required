@@ -43,7 +43,7 @@
     },
     "dynamic-fps-2.0.2.jar": {
       "packagePaths": ["dynamicfps/util/config"],
-      "author": "dynamicfps",
+      "author": "util",
       "isAllowed": true
     },
     "EntityCulling-Fabric-1.3.0.jar": {
@@ -133,7 +133,7 @@
     },
     "pling-1.3.0.jar": {
       "packagePaths": ["io/github/haykam821/pling"],
-      "author": "haykam821",
+      "author": "github",
       "isAllowed": true
     },
     "PresenceFootsteps-r29+1.16.4.jar": {

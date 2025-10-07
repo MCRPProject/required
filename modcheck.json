@@ -9,7 +9,33 @@
       "packagePaths": ["neko/violetmist/enablemp"],
       "author": "violetmist",
       "isAllowed": true
+    },
+    "fabric-api-0.42.0+1.16.jar": {
+      "packagePaths": ["no/package/path"],
+      "author": "fabricmc",
+      "isAllowed": true,
+      "strictFolderCheck": true
+    },
+    "sodium-fabric-mc1.16.5-0.2.0.jar": {
+      "packagePaths": ["me/jellysquid/mods/sodium"],
+      "author": "jellysquid",
+      "isAllowed": true
+    },
+    "lithium-fabric-mc1.16.5-0.6.6.jar": {
+      "packagePaths": ["me/jellysquid/mods/lithium"],
+      "author": "jellysquid",
+      "isAllowed": true
+    },
+    "phosphor-fabric-mc1.16.5-0.7.3.jar": {
+      "packagePaths": ["me/jellysquid/mods/phosphor"],
+      "author": "jellysquid",
+      "isAllowed": true
+    },
+    "cheating-mod.jar": {
+      "packagePaths": ["com/example/cheat"],
+      "author": "example",
+      "isAllowed": false
     }
   },
-  "lastUpdated": "2025-10-07T03:38:00Z"
+  "lastUpdated": "2025-10-07T03:56:00Z"
 }

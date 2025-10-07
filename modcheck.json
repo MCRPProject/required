@@ -2,19 +2,14 @@
   "mods": {
     "Mod-Menu-v1.16.23-for-1.16.5.jar": {
       "packagePaths": ["com/terraformersmc/modmenu"],
-      "author": "TerraformersMC",
+      "author": "terraformersmc",
       "isAllowed": true
     },
     "EnableMultiPlayerMode-1.0.0+Fabric1.16.X.jar": {
       "packagePaths": ["neko/violetmist/enablemp"],
-      "author": "VioletMist",
+      "author": "violetmist",
       "isAllowed": true
-    },
-    "cheating-mod.jar": {
-      "packagePaths": ["com/example/cheat"],
-      "author": "Example",
-      "isAllowed": false
     }
   },
-  "lastUpdated": "2025-10-07T03:37:00Z"
+  "lastUpdated": "2025-10-07T03:38:00Z"
 }

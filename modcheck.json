@@ -42,7 +42,7 @@
       "isAllowed": true
     },
     "dynamic-fps-2.0.2.jar": {
-      "packagePaths": ["dynamicfps/util"],
+      "packagePaths": ["dynamicfps/mixin"],
       "author": "dynamicfps",
       "isAllowed": true
     },

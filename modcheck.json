@@ -7,7 +7,7 @@
     },
     "EnableMultiPlayerMode-1.0.0+Fabric1.16.X": {
       "packagePaths": ["neko/violetmist/enablemp"],
-      "author": "violetmist",
+      "author": "unknown",
       "isAllowed": true
     },
     "cheating-mod.jar": {
